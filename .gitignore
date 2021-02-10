@@ -1,0 +1,10 @@
+# Arquivos do projeto
+.idea/*
+.vscode/*
+
+# Ambiente virutal
+venv/*
+
+# cache
+src/__pycache__/*
+src/modulos/__pycache__/*
